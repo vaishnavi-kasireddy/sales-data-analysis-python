@@ -69,6 +69,7 @@ Run `python data_cleaning.py` to reproduce the cleaning results.
 3. Install the required libraries using `python -m pip install -r requirements.txt`.
 4. Run `python pandas_analysis.py` for the analysis.
 5. Run `python visualize_sales.py` to generate the chart.
+6. python data_cleaning.py
 
 ## What I Learned
 
